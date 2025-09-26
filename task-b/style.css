@@ -1,0 +1,52 @@
+/*
+Author: Jutta Besis
+Date: 2025-09-25 
+*/
+
+body {
+  background-color: #f0f8ff; 
+  font-family: Arial, sans-serif;
+}
+
+
+h1 {
+  color: darkblue;
+  font-size: 36px;
+  text-align: center;
+}
+
+h2 {
+  color: #333;
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+
+p {
+  color: #444;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+
+ul {
+  list-style-type: square; 
+  color: darkgreen;
+}
+
+ol {
+  list-style-type: upper-roman; 
+  color: maroon;
+}
+
+
+a {
+  color: darkred;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: orange;
+  text-decoration: underline;
+}
